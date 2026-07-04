@@ -3,7 +3,6 @@ import json
 import os
 import random
 import asyncio  # Nový pomocník pro plynulé asynchronní odpočítávání
-import flet_audio as fta
 
 # ---------------------------------------------------------------------------
 # Barevná paleta hry
@@ -129,16 +128,9 @@ async def main(page: ft.Page):
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.bgcolor = BARVA_POZADI_1
 
+    # Zvuk je na této webové verzi vypnutý – ovládací prvek Audio vyžaduje
+    # vlastní sestavení webového klienta, které tu zatím nepoužíváme.
     zvuky_zapnuty = False
-    try:
-        zvuk_start = fta.Audio(src="start.mp3")
-        zvuk_bod = fta.Audio(src="bod.mp3")
-        zvuk_fail = fta.Audio(src="fail.mp3")
-        zvuk_konec = fta.Audio(src="complete.mp3")
-        page.overlay.extend([zvuk_start, zvuk_bod, zvuk_fail, zvuk_konec])
-        zvuky_zapnuty = True
-    except Exception:
-        pass
 
     CELKOVY_CAS = 180
     POCET_SLOV_NA_KOLO = 20
@@ -248,11 +240,6 @@ async def main(page: ft.Page):
     )
 
     async def oslav_rekord():
-        if zvuky_zapnuty:
-            try:
-                await zvuk_konec.play()
-            except Exception:
-                pass
         banner_rekord.opacity = 1
         banner_rekord.scale = ft.Scale(1)
         page.update()
@@ -325,7 +312,6 @@ async def main(page: ft.Page):
 
     async def uhodnuto(e):
         if hra["bezi"]:
-            if zvuky_zapnuty: await zvuk_bod.play()
             hra["skore"] += 1
             text_skore.value = str(hra["skore"])
 
@@ -339,7 +325,6 @@ async def main(page: ft.Page):
 
     async def preskocit(e):
         if hra["bezi"]:
-            if zvuky_zapnuty: await zvuk_fail.play()
             await dalsi_slovo()
 
     async def konec_hry(duvod):
@@ -348,7 +333,6 @@ async def main(page: ft.Page):
             return
         hra["bezi"] = False
         uloz_vysledek(hra["tema"], hra["skore"])
-        if zvuky_zapnuty: await zvuk_konec.play()
 
         novy_rekord = hra["skore"] > 0 and hra["skore"] >= zjisti_rekord()
 
@@ -416,8 +400,6 @@ async def main(page: ft.Page):
         bar_cas.value = 1.0
         bar_cas.color = BARVA_ZELENA
         text_tema_hry.value = hra["tema"].upper()
-
-        if zvuky_zapnuty: await zvuk_start.play()
 
         btn_uhodnuto = ft.ElevatedButton(
             content=ft.Row(
