@@ -1,0 +1,262 @@
+{
+    "1": {
+        "nazev": "Historie",
+        "slova": [
+            "hrad", "rytíř", "král", "meč", "štít",
+            "pyramida", "faraon", "gladiátor", "koruna", "bitva",
+            "kronika", "poklad", "legie", "trůn", "Vikingové",
+            "archeolog", "starověk", "revoluce", "kolonie", "impérium",
+            "královna", "princ", "dobyvatel", "bojovník", "erb",
+            "hradby", "katedrála", "mnich", "inkvizice", "husité",
+            "renesance", "objevitel", "kolonizace", "feudalismus", "šlechta",
+            "poddaný", "kronikář", "vykopávky", "starožitnost", "letopočet"
+        ]
+    },
+    "2": {
+        "nazev": "Auta",
+        "slova": [
+            "motor", "volant", "pneumatika", "benzín", "garáž",
+            "závod", "formule", "klakson", "kapota", "převodovka",
+            "elektromobil", "karburátor", "spoiler", "tachometr", "dálnice",
+            "parkoviště", "výfuk", "tuning", "křižovatka", "autoservis",
+            "brzda", "plyn", "spojka", "nádrž", "klimatizace",
+            "sedačka", "zrcátko", "blinkr", "světlomet", "rezerva",
+            "pneuservis", "mechanik", "olej", "chladič", "řadicí páka",
+            "alarm", "GPS", "dálniční známka", "zrychlení", "motorka"
+        ]
+    },
+    "3": {
+        "nazev": "Plachtění a moře",
+        "slova": [
+            "plachetnice", "kotva", "kompas", "příliv", "paluba",
+            "kormidlo", "přístav", "maják", "vlna", "potápěč",
+            "korál", "ostrov", "plavba", "posádka", "bójka",
+            "ráhno", "molo", "bouře", "ponorka", "mořeplavec",
+            "vánek", "plachta", "stěžeň", "záchranná vesta", "vlnobití",
+            "pobřežní stráž", "regata", "jachting", "kajuta", "lano",
+            "kotviště", "moře", "hlubina", "medúza", "chobotnice",
+            "mušle", "pirát", "vrak", "kapitán", "plavčík"
+        ]
+    },
+    "4": {
+        "nazev": "Chorvatsko",
+        "slova": [
+            "Jadran", "Dubrovník", "Split", "Istrie", "Plitvice",
+            "pláž", "jachta", "konoba", "čevapčiči", "olivovník",
+            "levandule", "fíky", "cyprus", "lastura", "trajekt",
+            "pobřeží", "rybáři", "turista", "slunce", "ostrov",
+            "Zagreb", "Hvar", "Korčula", "Zadar", "opuncie",
+            "rozmarýn", "sůl", "vinice", "oliva", "ryba",
+            "grilovačka", "slunečník", "šnorchl", "oblázky", "přívoz",
+            "kostel", "zvonice", "náměstí", "restaurace", "dovolená"
+        ]
+    },
+    "5": {
+        "nazev": "Judo a sport",
+        "slova": [
+            "judo", "kimono", "pás", "trenér", "zápas",
+            "technika", "hod", "tatami", "disciplína", "medaile",
+            "turnaj", "rozhodčí", "soupeř", "sebeobrana", "olympiáda",
+            "vítězství", "trénink", "výdrž", "respekt", "cvičení",
+            "úklon", "judista", "stupeň", "opasek", "hala",
+            "rozcvička", "kondice", "vytrvalost", "pohyb", "protivník",
+            "gong", "bod", "prohra", "výhra", "fair play",
+            "koncentrace", "sportovec", "aréna", "píšťalka", "pohár"
+        ]
+    },
+    "6": {
+        "nazev": "Zvířata",
+        "slova": [
+            "lev", "slon", "žirafa", "delfín", "medvěd",
+            "vlk", "orel", "žralok", "tučňák", "klokan",
+            "papoušek", "ježek", "veverka", "sova", "motýl",
+            "včela", "krokodýl", "opice", "koala", "velryba",
+            "tygr", "zebra", "hroch", "nosorožec", "gepard",
+            "panda", "leopard", "jelen", "liška", "zajíc",
+            "kachna", "husa", "kůň", "ovce", "koza",
+            "prase", "kráva", "pes", "kočka", "myš"
+        ]
+    },
+    "7": {
+        "nazev": "Hudba",
+        "slova": [
+            "melodie", "rytmus", "kytara", "klavír", "zpěvák",
+            "koncert", "orchestr", "nota", "mikrofon", "sluchátka",
+            "playlist", "refrén", "hudebník", "festival", "akord",
+            "bubny", "opera", "muzikál", "harmonika", "dirigent",
+            "housle", "flétna", "trubka", "basa", "činely",
+            "zpěv", "sbor", "DJ", "remix", "rádio",
+            "gramofon", "deska", "koncertní síň", "publikum", "potlesk",
+            "vystoupení", "šlágr", "melodika", "tón", "akustika"
+        ]
+    },
+    "8": {
+        "nazev": "Umění a umělá inteligence",
+        "slova": [
+            "malba", "socha", "galerie", "štětec", "paleta",
+            "robot", "algoritmus", "chatbot", "umělec", "kreativita",
+            "inspirace", "dílo", "výstava", "digitální", "generátor",
+            "technologie", "inovace", "budoucnost", "fantazie", "robotika",
+            "kresba", "skica", "plátno", "keramika", "sochařství",
+            "grafika", "animace", "neuronová síť", "strojové učení", "data",
+            "model", "prompt", "virtuální realita", "3D tisk", "design",
+            "styl", "avantgarda", "symbolika", "exponát", "mistrovské dílo"
+        ]
+    },
+    "9": {
+        "nazev": "Vesmír a planety",
+        "slova": [
+            "planeta", "hvězda", "měsíc", "raketa", "astronaut",
+            "meteorit", "souhvězdí", "galaxie", "kometa", "satelit",
+            "gravitace", "dalekohled", "zatmění", "vesmír", "mimozemšťan",
+            "skafandr", "černá díra", "vesmírná loď", "observatoř", "oběžnice",
+            "Mars", "Jupiter", "Saturn", "Venuše", "Merkur",
+            "Neptun", "Uran", "mléčná dráha", "sluneční soustava", "kosmonaut",
+            "přistání", "kráter", "prstenec", "hvězdárna", "kosmodrom",
+            "nulová gravitace", "meteor", "asteroid", "kosmický prach", "vzdálenost"
+        ]
+    },
+    "10": {
+        "nazev": "Doprava a cestování",
+        "slova": [
+            "letadlo", "vlak", "balón", "kufr", "pas",
+            "letiště", "nádraží", "tramvaj", "metro", "stopař",
+            "vízum", "batoh", "mapa", "dobrodružství", "cestovatel",
+            "kolo", "silnice", "navigace", "jízdenka", "průvodce",
+            "autobus", "taxi", "loď", "turistika", "kemp",
+            "stan", "spacák", "hranice", "celnice", "směnárna",
+            "cizina", "suvenýr", "výlet", "zavazadlo", "odlet",
+            "přílet", "zpoždění", "palubní lístek", "rezervace", "itinerář"
+        ]
+    },
+    "11": {
+        "nazev": "Dinosauři",
+        "slova": [
+            "dinosaurus", "tyranosaurus", "triceratops", "vejce", "fosilie",
+            "kostra", "pravěk", "vyhynulý", "paleontolog", "vykopávka",
+            "dráp", "šupiny", "ještěr", "stegosaurus", "brontosaurus",
+            "pterodaktyl", "bažina", "sopka", "evoluce", "bahno",
+            "velociraptor", "diplodokus", "ankylosaurus", "spinosaurus", "prehistorie",
+            "zkamenělina", "otisk", "prales", "jurský", "druhohory",
+            "masožravec", "býložravec", "obr", "ocas", "tlama",
+            "zuby", "silueta", "ledová doba", "mamut", "dinosauří vejce"
+        ]
+    },
+    "12": {
+        "nazev": "Počasí a roční období",
+        "slova": [
+            "déšť", "sníh", "duha", "blesk", "vítr",
+            "mráz", "mlha", "kroupy", "jaro", "léto",
+            "podzim", "zima", "teploměr", "obloha", "mrak",
+            "vánice", "vlhkost", "tornádo", "vichřice", "orkán",
+            "slunečno", "oblačno", "jasno", "přeháňka", "hurikán",
+            "hrom", "sněhulák", "rampouch", "náledí", "vedro",
+            "chlad", "ochlazení", "oteplení", "meteorolog", "předpověď",
+            "monzun", "sucho", "povodeň", "ledovec", "opar"
+        ]
+    },
+    "13": {
+        "nazev": "Škola a učení",
+        "slova": [
+            "tužka", "sešit", "učitel", "žák", "lavice",
+            "tabule", "křída", "zvonek", "přestávka", "vysvědčení",
+            "úkol", "pravítko", "aktovka", "knihovna", "test",
+            "známka", "rozvrh", "kalkulačka", "penál", "abeceda",
+            "pero", "guma", "ořezávátko", "učebnice", "třída",
+            "ředitel", "školník", "jídelna", "tělocvična", "matematika",
+            "čtení", "psaní", "diktát", "referát", "projekt",
+            "spolužák", "prázdniny", "výuka", "vyučování", "zvonění"
+        ]
+    },
+    "14": {
+        "nazev": "Jídlo a vaření",
+        "slova": [
+            "recept", "hrnec", "pánev", "nůž", "vařečka",
+            "trouba", "koření", "polévka", "salát", "dezert",
+            "pečivo", "omáčka", "kuchař", "gril", "marináda",
+            "příloha", "talíř", "vidlička", "zákusek", "mixér",
+            "lžíce", "prkénko", "cukr", "mouka", "máslo",
+            "mléko", "chleba", "koláč", "guláš", "palačinka",
+            "knedlík", "těsto", "pečení", "smažení", "dušení",
+            "krájení", "ochucení", "chuť", "vůně", "snídaně"
+        ]
+    },
+    "15": {
+        "nazev": "Pohádky a fantazie",
+        "slova": [
+            "princezna", "drak", "čaroděj", "kouzlo", "věž",
+            "pohádka", "víla", "skřítek", "kouzelník", "zaklínadlo",
+            "truhla", "jednorožec", "zlobr", "kouzelná hůlka", "vypravěč",
+            "začarovaný", "příšera", "les", "magie", "bájný",
+            "čarodějnice", "kouzelný koberec", "kotlík", "elixír", "létající koště",
+            "zakletí", "zázrak", "bájná bytost", "permoník", "trpaslík",
+            "velikán", "kouzelné zrcadlo", "tajemství", "hrdinný čin", "proroctví",
+            "temnota", "světlo", "kouzelný prsten", "kouzelná zahrada", "pohádkový hrad"
+        ]
+    },
+    "16": {
+        "nazev": "Povolání a řemesla",
+        "slova": [
+            "hasič", "policista", "lékař", "truhlář", "zedník",
+            "kadeřník", "pekař", "zahradník", "elektrikář", "automechanik",
+            "instalatér", "veterinář", "malíř", "novinář", "pilot",
+            "zubař", "řidič", "švadlena", "architekt", "kovář",
+            "prodavač", "číšník", "sklenář", "tesař", "geolog",
+            "vědec", "programátor", "spisovatel", "herec", "fotograf",
+            "manažer", "účetní", "právník", "soudce", "farmář",
+            "včelař", "lesník", "krejčí", "kominík", "zahradnice"
+        ]
+    },
+    "17": {
+        "nazev": "Vynálezy a objevy",
+        "slova": [
+            "vynález", "žárovka", "parník", "tiskárna", "telefon",
+            "mikroskop", "baterie", "vynálezce", "patent", "objev",
+            "experiment", "laboratoř", "dálkové ovládání", "internet", "počítač",
+            "airbag", "vakcína", "elektřina", "automatizace", "čip",
+            "magnet", "obvod", "senzor", "dron", "solární panel",
+            "wifi", "software", "hardware", "kód", "prototyp",
+            "inovátor", "patentový úřad", "věda", "technický pokrok", "nanotechnologie",
+            "umělá inteligence", "virtuální asistent", "čipová karta", "blockchain", "kvantový počítač"
+        ]
+    },
+    "18": {
+        "nazev": "Superhrdinové a komiksy",
+        "slova": [
+            "superhrdina", "maska", "plášť", "síla", "záchrana",
+            "padouch", "komiks", "schopnost", "tajná identita", "kostým",
+            "hrdina", "nebezpečí", "mise", "spravedlnost", "létání",
+            "neviditelnost", "rychlost", "boj", "triumf", "legenda",
+            "superschopnost", "laser", "brnění", "síla vůle", "tým",
+            "spojenci", "nepřítel", "plán", "past", "výbuch",
+            "útěk", "honička", "souboj", "vítězný", "poražený",
+            "návrat", "odhalení", "tajemný", "komiksový sešit", "dobrodružný příběh"
+        ]
+    },
+    "19": {
+        "nazev": "Emoce a pocity",
+        "slova": [
+            "radost", "smutek", "strach", "hněv", "láska",
+            "překvapení", "stud", "nadšení", "žárlivost", "klid",
+            "úzkost", "pýcha", "vděčnost", "osamělost", "naděje",
+            "lítost", "odvaha", "nuda", "empatie", "štěstí",
+            "zvědavost", "důvěra", "zklamání", "vina", "spokojenost",
+            "únava", "vzrušení", "obdiv", "soucit", "panika",
+            "zoufalství", "pohoda", "sebevědomí", "nejistota", "přátelství",
+            "něha", "trapnost", "uspokojení", "euforie", "dojetí"
+        ]
+    },
+    "20": {
+        "nazev": "Ekologie a příroda",
+        "slova": [
+            "recyklace", "příroda", "znečištění", "udržitelnost", "obnovitelný",
+            "energie", "voda", "ochrana", "vyhynutí", "klima",
+            "emise", "kompost", "solární", "turbína", "ekosystém",
+            "biodiverzita", "Země", "stromy", "čistota", "přírodní rezervace",
+            "třídění odpadu", "plast", "sklo", "papír", "elektroodpad",
+            "uhlík", "skleníkový efekt", "deforestace", "znovuzalesnění", "ochránce přírody",
+            "národní park", "chráněný druh", "květina", "keř", "půda",
+            "vzduch", "oceán", "podnebí", "obnova", "ekologická stopa"
+        ]
+    }
+}
